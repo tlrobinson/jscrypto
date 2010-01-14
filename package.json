@@ -1,0 +1,9 @@
+{
+    "name": "jscrypto",
+    "homepage": "http://crypto.stanford.edu/sjcl/",
+    "description": "Fast symmetric cryptography in Javascript",
+    "keywords": ["crypto", "cryptography"],
+    "contributors": ["Emily Stark", "Mike Hamburg", "Dan Boneh"],
+    "licenses": [{"type":"public domain"}],
+    "version": "0.1"
+}
